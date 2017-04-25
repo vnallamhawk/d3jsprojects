@@ -1,0 +1,26 @@
+.axis path, .axis line
+{
+    fill: none;
+    stroke: #777;
+}
+
+.axis text
+{
+    font-family: 'Arial';
+    font-size: 13px;
+}
+.country
+{
+    margin-left:8px;
+    width:137px;
+}
+#countryFields
+{
+    margin-left:73px;
+}
+
+#populationHeading
+{
+    position:relative;
+    left:308px;
+}
